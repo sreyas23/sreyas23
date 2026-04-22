@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreya Sirivella aka SS </h1>
+<h4 align="center"> 💻 Full Stack Developer | 🤖 Applied AI/ML Engineer</h4>
 
-<p align="center">
-💻 Software Engineer building scalable backend systems & real-time data platforms <br>
-⚙️ Focused on distributed systems, performance optimization & event-driven architectures <br>
-🤖 Building AI-powered applications using LLMs, RAG pipelines & intelligent agents
-</p>
 
 ---
 ## 👩‍💻 About Me
