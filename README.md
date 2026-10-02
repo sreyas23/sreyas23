@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sreya Sirivella aka SS </h1>
-<h4 align="center"> 💻 Full Stack Developer | 🤖 Applied AI/ML Engineer</h4>
+<h1 align="center">Hi 👋, I'm Sreya </h1>
+<h4 align="center"> 💻 Software Development Engineer | 🤖 Applied AI/ML </h4>
 
 
 ---
